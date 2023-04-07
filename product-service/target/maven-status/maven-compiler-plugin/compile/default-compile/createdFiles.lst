@@ -1,0 +1,10 @@
+com\andresanni\productservice\controller\ProductController.class
+com\andresanni\productservice\model\Product$ProductBuilder.class
+com\andresanni\productservice\repository\ProductRepository.class
+com\andresanni\productservice\ProductServiceApplication.class
+com\andresanni\productservice\dto\ProductResponse.class
+com\andresanni\productservice\model\Product.class
+com\andresanni\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\andresanni\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\andresanni\productservice\dto\ProductRequest.class
+com\andresanni\productservice\service\ProductService.class

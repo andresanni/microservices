@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.andresanni.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 17.482 s <<< FAILURE! - in com.andresanni.productservice.ProductServiceApplicationTests
+shouldReturnAllProducts  Time elapsed: 0.129 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[ProductResponse(id=iphone 12, name=Iphone 12, description=Descripcion, price=1000), ProductResponse(id=iphone 14, name=Iphone 14, description=Descripcion, price=2000)]> but was: <[ProductResponse(id=6430186959aa901888d6e741, name=iPhone 13, description=Iphone 13, price=1200), ProductResponse(id=iphone 12, name=Iphone 12, description=Descripcion, price=1000), ProductResponse(id=iphone 14, name=Iphone 14, description=Descripcion, price=2000)]>
+	at com.andresanni.productservice.ProductServiceApplicationTests.shouldReturnAllProducts(ProductServiceApplicationTests.java:87)
+
